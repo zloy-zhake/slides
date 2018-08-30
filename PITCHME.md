@@ -1,13 +1,7 @@
-## Hello!
+package main
 
-+++
+import "fmt"
 
-## Hola!
-
----
-
-## Goodbye!
-
-+++
-
-## Adios!
+func main(){
+	fmt.Println("Hello, world!")
+}
