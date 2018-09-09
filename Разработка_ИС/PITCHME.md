@@ -47,8 +47,10 @@
 
 ### Типтерді ауыстыру
 * Convert классы
+* https://msdn.microsoft.com/ru-ru/library/system.convert(v=vs.110).aspx
 
 ---
 
 ### Жол (string) типке ауыстыру
 * ToString() әдісі
+* https://msdn.microsoft.com/ru-ru/library/system.object.tostring(v=vs.110).aspx
